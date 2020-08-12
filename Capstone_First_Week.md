@@ -2,13 +2,13 @@
 ## 1. Introduction
 
 ### a. Background
-Museum goers all over the United States are trying to determine the best city to travel to.  This project will focus on comparing multiple cities within the United States to determine which location has the highest density of museums.  The goal is to find the best city for museum goers to travel to and to settle the debate of which city is the best to learn.  Travelers want to travel to a city to experience as many closely located museums as possible.
+Museum goers all over the United States are trying to determine the best city to travel to.  This project will focus on comparing multiple cities within the United States to determine which location has the highest density of museums.  The goal is to find the best city for museum goers to travel to and to settle the debate of which city is the best to learn.  
 
 ### b. Problem
-The main problem is to determine which city is the best to visit that has a lot of museums close to the area?
+We want to determine which is the best city that has a lot of museums close to the area.
 
 ### c. Target Audience
-Anyone looking for an educational vacation with multiple museums close by.
+When travelers go on vacation, they try to reduce costs by spending less on transportation.  Many will avoid renting a car and want a city where everything is close by.  The target audience is anyone looking for an educational vacation with multiple museums close by.
 
 ## Data Section
 
